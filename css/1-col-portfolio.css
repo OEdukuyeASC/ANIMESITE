@@ -14,7 +14,7 @@ input[type=text]:focus {
     width: 100%;
 }
  * {
-    color: white;
+    color: black;
 }
 div.relative {
     position: relative;
